@@ -21,9 +21,8 @@ This interactive Power BI dashboard provides deep insights into Amazon sales per
 Amazon-Sales-Dashboard/
 │
 ├── data/
-│   ├── sample_data.csv
-│   └── data_dictionary.md
-│
+│   └── sample_data.csv
+│   
 ├── dashboards/
 │   ├── Amazon_Sales_Dashboard.pbix
 │   └── Amazon_Sales_Dashboard.pdf
