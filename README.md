@@ -200,6 +200,7 @@ This dashboard enables data-driven decision making by:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 About the Developer
+**Kiran Rangu - Data Analyst | Business Intelligence | AI & Data Science Graduate**
 * 🎓 **AI & Data Science Graduate** with strong foundation in statistical analysis and machine learning concepts
 * 💡 **BI Enthusiast** skilled in Power BI, DAX, Python, SQL, and learning advanced data modeling techniques
 * 🚀 **Analytical Thinker** passionate about transforming datasets into meaningful business insights
