@@ -2,7 +2,7 @@
 
 A comprehensive Power BI dashboard analyzing Amazon sales performance for Q2 2022, providing actionable insights for business growth and optimization.
 
-![Dashboard Overview](https://github.com/KIRANRW9/Amazon-Sales-Insights-PowerBI/blob/repo-exercise/images/3_insights.png)
+![Dashboard Overview](https://github.com/KIRANRW9/Amazon-Sales-Insights-PowerBI/blob/repo-exercise/images/1_overview.png)
 
 ## 📊 Dashboard Overview
 
@@ -40,7 +40,7 @@ Amazon-Sales-Dashboard/
 ## 📈 Key Features
 
 ### 1. **Overview Tab**
-![Overview Analytics](https://github.com/KIRANRW9/Amazon-Sales-Insights-PowerBI/blob/repo-exercise/images/3_insights.png)
+![Overview Analytics](https://github.com/KIRANRW9/Amazon-Sales-Insights-PowerBI/blob/repo-exercise/images/1_overview.png)
 
 - **Date Range Filter**: Flexible filtering for Q2 2022 (Apr-June)
 - **Order Status Distribution**: Visual breakdown of shipped (62.73%), delivered (22.32%), cancelled (14.22%), and pending (0.73%) orders
