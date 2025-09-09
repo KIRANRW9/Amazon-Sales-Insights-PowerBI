@@ -2,7 +2,7 @@
 
 A comprehensive Power BI dashboard analyzing Amazon sales performance for Q2 2022, providing actionable insights for business growth and optimization.
 
-![Dashboard Overview](images/overview.png)
+![Dashboard Overview](https://github.com/KIRANRW9/Amazon-Sales-Insights-PowerBI/blob/repo-exercise/images/3_insights.png)
 
 ## 📊 Dashboard Overview
 
@@ -40,14 +40,14 @@ Amazon-Sales-Dashboard/
 ## 📈 Key Features
 
 ### 1. **Overview Tab**
-![Overview Analytics](images/overview.png)
+![Overview Analytics](https://github.com/KIRANRW9/Amazon-Sales-Insights-PowerBI/blob/repo-exercise/images/3_insights.png)
 
 - **Date Range Filter**: Flexible filtering for Q2 2022 (Apr-June)
 - **Order Status Distribution**: Visual breakdown of shipped (62.73%), delivered (22.32%), cancelled (14.22%), and pending (0.73%) orders
 - **Monthly Trend Analysis**: Order volume tracking showing decline from 49.1K (April) to 37.7K (June)
 
 ### 2. **Analytics Tab**
-![Analytics Dashboard](images/analytics.png)
+![Analytics Dashboard](https://github.com/KIRANRW9/Amazon-Sales-Insights-PowerBI/blob/repo-exercise/images/2_analytics.png)
 
 - **Geographic Revenue Analysis**: State-wise performance with Maharashtra leading at ₹12M
 - **Customer Segmentation**: LTV analysis across Premium (₹1,217), Regular (₹710), and Basic (₹326) segments
@@ -55,7 +55,7 @@ Amazon-Sales-Dashboard/
 - **Daily Performance Patterns**: Order status breakdown by day of the week
 
 ### 3. **Insights Tab**
-![Strategic Insights](images/insights.png)
+![Strategic Insights](https://github.com/KIRANRW9/Amazon-Sales-Insights-PowerBI/blob/repo-exercise/images/3_insights.png)
 
 Strategic recommendations and actionable insights including:
 - Revenue concentration risk analysis
