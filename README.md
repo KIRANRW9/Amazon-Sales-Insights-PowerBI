@@ -200,10 +200,13 @@ This dashboard enables data-driven decision making by:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 About the Developer
-**Kiran Rangu** - *AI & Data Science Graduate*
-- 🎓 Specialized in Business Intelligence and Advanced Analytics
-- 💼 Passionate about transforming data into actionable business insights
-- 🚀 Building scalable analytics solutions for e-commerce optimization
+* 🎓 **AI & Data Science Graduate** with strong foundation in statistical analysis and machine learning concepts
+* 💡 **BI Enthusiast** skilled in Power BI, DAX, Python, SQL, and learning advanced data modeling techniques
+* 🚀 **Analytical Thinker** passionate about transforming datasets into meaningful business insights
+* 📊 **Dashboard Creator** focused on building clear, actionable visualizations and KPI tracking
+* 🎯 **Business-Minded** professional eager to identify growth opportunities and performance improvements
+* 🌟 **Quick Learner** with hands-on project experience in analytics and continuous skill development
+* 🌟 **Self-Driven Innovator** with hands-on project portfolio and relentless pursuit of cutting-edge analytics skills
 
 ### Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kiranrangu)
